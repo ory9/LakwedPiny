@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "1781288528218",
+    "title": "Prime Plot in LAYIBI",
+    "priceUGX": 1.6,
+    "areaName": "Gulu",
+    "latitude": 2.7533,
+    "longitude": 32.2815,
+    "interestLevel": "medium",
+    "status": "unsold",
+    "landSize": "approx 32368m² (8 Acres)",
+    "agentName": "Allan Rye",
+    "agentContact": "+256 779 505340",
+    "postingsCount": 1,
+    "notes": "Offline parser fallback.",
+    "createdAt": "2026-06-12T18:22:08.218Z"
+  }
+]
